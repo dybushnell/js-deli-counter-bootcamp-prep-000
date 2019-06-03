@@ -8,7 +8,7 @@ function takeANumber(katzDeliLine,name){
   var welcome = "Welcome, " + name +". You are number " + lineLength + " in line."
   
   return welcome
-  return newLine
+  //return newLine
 }
 
 
